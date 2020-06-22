@@ -1,0 +1,91 @@
+@media (min-width: 768px)
+header.masthead {
+    padding-top: 17rem;
+    padding-bottom: 12.5rem;
+}
+html { 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+#landing-page{
+    color: #fefefe;
+    font-family: font-family: 'Josefin Sans', sans-serif;
+    background-image: url(https://images.pexels.com/photos/531767/pexels-photo-531767.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* #portfolio-page{
+    background-image: url(https://images.pexels.com/photos/691668/pexels-photo-691668.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+} */
+
+#portfolio-header{
+    background-image: url(https://images.pexels.com/photos/1028600/pexels-photo-1028600.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500);
+    background-size: cover;
+}
+
+.navbar{
+    background-color: #86939bb3;
+    opacity: 40%;
+}
+
+.navbar-brand{
+    color: #0a4614;
+    font-size: 1.5rem;
+    font-weight: 300;
+    text-shadow: 1px -1px 0 #b0c7d4;
+}
+
+.nav-link{
+    color: #fefefe;
+    font-size: 1.5rem;
+    font-weight: 150;
+}
+
+.nav-link:hover{
+    color: #3a2ea1;
+}
+
+header.masthead {
+    padding-top: 18rem;
+    padding-bottom: 18rem;
+    text-align: center;
+    color: rgba(5, 20, 8, 0.7);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: cover;
+}
+
+.masthead-subheading{
+    font-family: cursive;
+    font-size: 52px;
+    color: black;
+    text-shadow: 1px -1px 0 #b0c7d4;
+}
+
+.masthead.heading{
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 28px;
+}
+
+.top{
+    padding-top: 80px;
+}
+
+#contactPage{
+    background-image: url(https://images.pexels.com/photos/844112/pexels-photo-844112.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+}
+
+.aboutMe{
+    width: 50%;
+    border: 5px solid #d1d4d1;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    padding: 10 10 10 0;
+    background: #83a4b3;
+    opacity: 60%;
+}
